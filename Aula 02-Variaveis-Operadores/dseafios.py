@@ -11,4 +11,8 @@ dia = input("Insira o dia de seu nascimento:")
 mes = input("Insira o mes de seu nascimento:")
 ano = input("Insira o ano de seu nascimento:")
 
-print(f"Seu nascimento o {dia} do {mes} no ano {ano}")
+print(f"Seu nascimento no {dia} do {mes} no ano de {ano}")
+
+#Desafio 3
+
+print(f"Soma de{numero}
